@@ -1,0 +1,22 @@
+{
+  "name": "knowitapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohitPatil9696/Knowitapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohitPatil9696/Knowitapp/issues"
+  },
+  "homepage": "https://github.com/RohitPatil9696/Knowitapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
